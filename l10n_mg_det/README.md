@@ -1,4 +1,4 @@
-# Madagascar - Comptabilité et Fiscalité
+# Madagascar - Comptabilité et Fiscalité détaillée
 
 
 Ce module est la base de la Comptabilité à Madagascar. Dans une forme un peu plus détaillé:
